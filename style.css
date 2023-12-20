@@ -43,11 +43,16 @@ ul{
     border-radius: 20px;
 }
 .medalhas{
-    background-color: #8eb897;
+    background-color: #7ea386;
     border-radius: 20px;
 }
 .subtitulo{
-    color: #5b7553;
+    color: #51684a;
+    font-weight: 700;
+}
+.destaque{
+    color: rgb(7, 9, 0);
+    font-weight: 600;
 }
 .curiosidades{
     background-color: #22221e;
